@@ -3,9 +3,11 @@ Name: Karthik T
 Reg No : 212222210007
 
 Aim:
+
 To measure energy using Single Phase Energy Meter
 
 Procedure:
+
 Step 1: Make Connections as per the instructions given below:
 
 S1 of MCB - A1 of Ammeter and A2 of Ammeter - V1 of Voltmeter V1 of Voltmeter - Mw of Wattmeter and Mw of Wattmeter - C of Wattmeter S2 of MCB - V of Wattmeter and V of Wattmeter - N1 of Energy Meter N2 of Energy Meter - L2 of Load and Le of Energy Meter - L1 of Load L of Wattmeter - M of Energy Meter and S2 of MCB - V2 of Voltmeter NOTE : If wire is wrongly connected, Click on node number to detach the wire.
