@@ -1,5 +1,7 @@
 Name: Karthik T
+
 Reg No : 212222210007
+
 Aim:
 To measure energy using Single Phase Energy Meter
 
@@ -48,6 +50,7 @@ Output Waveform
 
 
 Result
+
 Thus the energy has been measured using Single Phase Energy Meter.
 
 
